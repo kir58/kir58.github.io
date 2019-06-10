@@ -211,12 +211,12 @@ body {
 }
 
 .history dd {
-position: relative;
-display:inline-block;
-width:470px;
-margin: 0;
-padding-left: 25px;
-font-size: 16px;
+  position: relative;
+  display:inline-block;
+  width:470px;
+  margin: 0;
+  padding-left: 25px;
+  font-size: 16px;
 }
 
 .history dd img {
@@ -246,8 +246,9 @@ font-size: 16px;
   padding-bottom:70px;
   padding-top:10px;
 }
+
 .press blockquote {
-position:relative;
+  position:relative;
 }
 
 .press blockquote img {
@@ -281,10 +282,12 @@ position:relative;
   text-align: left;
 
 }
+
 .price-list th {
   color: grey;
   font-size:15px;
 }
+
 .price-list td {
   height: 55px;
   border-bottom: 1px solid #d9d9d9;
@@ -315,6 +318,7 @@ position:relative;
   border-radius: 3px;
   font-size: 12px;
 }
+
 .contact {
   padding-top: 60px;
   padding-bottom: 70px;
@@ -335,6 +339,7 @@ position:relative;
   padding-top:15px;
   color: black;
 }
+
 .contact form input[name="hi"],
 .contact form input[name="email"],
 .contact form select,
@@ -529,9 +534,11 @@ position:relative;
   color: #a38b70;
   text-decoration:none;
 }
+
 .footer-dev a:hover {
   color: white;
 }
+
 .footer-dev a:avtive {
   color: black;
 }
