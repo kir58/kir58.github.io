@@ -1,3 +1,3 @@
 # Kvas
 
-[Demo](http://kir58.github.io)
+[Demo](https://kir58.github.io/kvas/)
