@@ -68,6 +68,7 @@ body {
 
 .new-products { 
   display: flex;
+  padding: 50px;
   justify-content: space-around;
   flex-wrap: wrap;
   background-color: white; 
